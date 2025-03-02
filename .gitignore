@@ -1,0 +1,13 @@
+# Ignorar todo el frontend
+/frontend/node_modules/
+frontend/.next/
+frontend/.env
+frontend/.eslintcache
+frontend/package-lock.json
+frontend/.turbo/
+# Ignorar todo el backend
+/backend/venv/
+backend/__pycache__/
+backend/.env
+backend/.pytest_cache/
+backend/.DS_Store
