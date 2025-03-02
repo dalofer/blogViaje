@@ -1,0 +1,6 @@
+-- arrancar el servidor web
+	npm run dev 
+
+-- arrancar el servidor aplicaciones
+	venv\Scripts\activate
+	uvicorn main:app --reload
